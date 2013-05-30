@@ -8,7 +8,7 @@ Curriculum for the inaugural "Python Boot Camp" held for the Scottish Graduate P
 * [Chapter 1: The way of the program](http://www.greenteapress.com/thinkpython/html/thinkpython002.html)
 * [Chapter 2: Variables, expressions and statements](http://www.greenteapress.com/thinkpython/html/thinkpython003.html)
 * [Chapter 3: Functions](http://www.greenteapress.com/thinkpython/html/thinkpython004.html)
-* [Chapter 4: Case Study on Interface Design](http://www.greenteapress.com/thinkpython/html/thinkpython005.html) We will use a Python module called [Swampy](http://www.greenteapress.com/thinkpython/swampy/) which can be downloaded from PyPi using `pip install swampy` from the command line.
+* [Chapter 4: Case Study on Interface Design](http://www.greenteapress.com/thinkpython/html/thinkpython005.html) 
 
 ### Afternoon:
 For the afternoon sessions, I will switch from discussing the basics of Python programming to more specialized topics.  I will start by covering Chapter 3 from Wes McKinney's book *Python for Data Analysis* on [IPython](http://ipython.org/). If you wish, you can download the code for the entire book by forking the book's [github repository](https://github.com/pydata/pydata-book).
