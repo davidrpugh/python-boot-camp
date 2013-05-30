@@ -2,7 +2,7 @@
 
 Curriculum for the inaugural "Python Boot Camp" held for the Scottish Graduate Programme in Economics at the University of Edinburgh, June 3-7 2013. The curriculum mainly follows [*Think Python*](http://www.greenteapress.com/thinkpython/) by Allen Downey, and the excellent SciPy lectures series on [Scientific Programming in Python](http://scipy-lectures.github.io/). *Think Python* is freely available on-line in both [pdf](http://www.greenteapress.com/thinkpython/thinkpython.pdf) and [html](http://www.greenteapress.com/thinkpython/html/index.html). All code and additional documentation for the Scipy lecture series can be forked from its [github repository](https://github.com/scipy-lectures/scipy-lecture-notes).
 
-## Monday, 3 June:
+## Day 1:
 
 ### Morning:
 * [Chapter 1: The way of the program](http://www.greenteapress.com/thinkpython/html/thinkpython002.html)
@@ -13,7 +13,7 @@ Curriculum for the inaugural "Python Boot Camp" held for the Scottish Graduate P
 ### Afternoon:
 For the afternoon sessions, I will switch from discussing the basics of Python programming to more specialized topics.  I will start by covering Chapter 3 from Wes McKinney's book *Python for Data Analysis* on [IPython](http://ipython.org/). If you wish, you can download the code for the entire book by forking the book's [github repository](https://github.com/pydata/pydata-book).
 
-## Tuesday, 4 June:
+## Day 2:
 
 ### Morning:
 * [Chapter 5: Conditionals and recursion](http://www.greenteapress.com/thinkpython/html/thinkpython006.html)
@@ -23,7 +23,7 @@ For the afternoon sessions, I will switch from discussing the basics of Python p
 ### Afternoon:
 An in depth introduction to [NumPy]((http://www.numpy.org/). I will cover the entirety of lecture 1.3(http://scipy-lectures.github.io/intro/numpy/index.html) from the SciPy lecture series. Note that much of this material is also covered, though in less detail, in Chapters 4 and 12 of *Python for Data Analysis*.
 
-## Wednesday, 5 June:
+## Day 3:
 
 ### Morning:
 * [Chapter 8: Strings](http://www.greenteapress.com/thinkpython/html/thinkpython009.html)
@@ -33,7 +33,7 @@ An in depth introduction to [NumPy]((http://www.numpy.org/). I will cover the en
 ### Afternoon:
 Basic plotting and data visualization using Matplotlib. I will cover the entirety of the [lecture 1.4](http://scipy-lectures.github.io/intro/matplotlib/matplotlib.html) from the SciPy lectures series. 
 
-## Thursday, 6 June:
+## Day 4:
 
 ### Morning:
 * [Chapter 11: Dictionaries](http://www.greenteapress.com/thinkpython/html/thinkpython012.html)
@@ -44,7 +44,7 @@ Basic plotting and data visualization using Matplotlib. I will cover the entiret
 ### Afternoon:
 Selected, economics relevant, topics from [lecture 1.5(http://scipy-lectures.github.io/intro/scipy.html) from the SciPy lecture series on high-level scientific computing using SciPy.
  
-## Friday, 7 June:
+## Day 5:
 Introduction to [object-oriented programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming) and [agent-based modelling (ABM)](http://en.wikipedia.org/wiki/Agent-based_model) by replicating results from Allan Issac's paper on [*Simulating Evolutionary Games*](http://jasss.soc.surrey.ac.uk/11/3/8.html). You will write a program that will simulate a large number of agents repeatedly playing the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) with one another. Along the way you will learn some of the basic concepts of OOP.
 
 More detail on the theory/practice of OOP can be found in chapters 15-19 of *Think Python*:
