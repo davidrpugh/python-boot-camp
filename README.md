@@ -58,8 +58,10 @@ More detail on the theory/practice of OOP can be found in chapters 15-19 of *Thi
 
 Hopefully, by this point you will have fallen in love with Python programming and want to know where you can learn more...
 
-Allen Downey also has two other books on Python programming that you might find interesting:
+I have found the following books interesting/useful:
 
 * [*Think Complexity:*](http://www.greenteapress.com/compmod/) Picking up where *Think Python* leaves off, this book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science. Available in both [.html](http://www.greenteapress.com/compmod/html/index.html) and [.pdf](http://www.greenteapress.com/compmod/) formats.
 * [*Think Stats:*](http://www.greenteapress.com/thinkstats/html/) Introduction to Bayesian and Frequentist statistics for Python programmers.  Available in both [.html](http://www.greenteapress.com/thinkstats/html/index.html) and [.pdf](http://greenteapress.com/thinkstats/thinkstats.pdf) formats.
 * [*Programming Collective Intelligence:*](http://shop.oreilly.com/product/9780596529321.do) Introduction to statistical learning theory and machine learning techniques for Python programmers. Potential gold-mine of economics research applications. I maintain a [repository](https://github.com/davidrpugh/programming-collective-intelligence-code) of the code for the entire book.
+
+If you *really* want to become a Python Jedi Master, then I suggest that you put yourself through MIT's legendary [CS 6.00 (Spring, 2011): Introduction to Computer Science and Programming](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/). The [fall 2008 version](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00-introduction-to-computer-science-and-programming-fall-2008/) of the course is still relevant (and the lecturer is more engaging).  Both of these courses include video lectures and recitations as well as the usual course materials.
