@@ -21,7 +21,7 @@ For the afternoon sessions, I will switch from discussing the basics of Python p
 * [Chapter 7: Iteration](http://www.greenteapress.com/thinkpython/html/thinkpython008.html)
 
 ### Afternoon:
-An in depth introduction to [NumPy]((http://www.numpy.org/). I will cover the entirety of lecture 1.3(http://scipy-lectures.github.io/intro/numpy/index.html) from the SciPy lecture series. Note that much of this material is also covered, though in less detail, in Chapters 4 and 12 of *Python for Data Analysis*.
+An in depth introduction to [NumPy]((http://www.numpy.org/). I will cover the entirety of [lecture 1.3](http://scipy-lectures.github.io/intro/numpy/index.html) from the SciPy lecture series. Note that much of this material is also covered, though in less detail, in Chapters 4 and 12 of *Python for Data Analysis*.
 
 ## Day 3:
 
