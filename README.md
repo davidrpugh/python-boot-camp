@@ -42,7 +42,7 @@ Basic plotting and data visualization using Matplotlib. I will cover the entiret
 * [Chapter 14: Files](http://www.greenteapress.com/thinkpython/html/thinkpython015.html)
 
 ### Afternoon:
-Selected, economics relevant, topics from [lecture 1.5(http://scipy-lectures.github.io/intro/scipy.html) from the SciPy lecture series on high-level scientific computing using SciPy.
+Selected, economics relevant, topics from [lecture 1.5](http://scipy-lectures.github.io/intro/scipy.html) from the SciPy lecture series on high-level scientific computing using SciPy.
  
 ## Day 5:
 Introduction to [object-oriented programming (OOP)](https://en.wikipedia.org/wiki/Object-oriented_programming) and [agent-based modelling (ABM)](http://en.wikipedia.org/wiki/Agent-based_model) by replicating results from Allan Issac's paper on [*Simulating Evolutionary Games*](http://jasss.soc.surrey.ac.uk/11/3/8.html). You will write a program that will simulate a large number of agents repeatedly playing the [Prisoner's Dilemma](https://en.wikipedia.org/wiki/Prisoner%27s_dilemma) with one another. Along the way you will learn some of the basic concepts of OOP.
@@ -62,3 +62,4 @@ Allen Downey also has two other books on Python programming that you might find 
 
 * [*Think Complexity:*](http://www.greenteapress.com/compmod/) Picking up where *Think Python* leaves off, this book is about complexity science, data structures and algorithms, intermediate programming in Python, and the philosophy of science. Available in both [.html](http://www.greenteapress.com/compmod/html/index.html) and [.pdf](http://www.greenteapress.com/compmod/) formats.
 * [*Think Stats:*](http://www.greenteapress.com/thinkstats/html/) Introduction to Bayesian and Frequentist statistics for Python programmers.  Available in both [.html](http://www.greenteapress.com/thinkstats/html/index.html) and [.pdf](http://greenteapress.com/thinkstats/thinkstats.pdf) formats.
+* [*Programming Collective Intelligence:*](http://shop.oreilly.com/product/9780596529321.do) Introduction to statistical learning theory and machine learning techniques for Python programmers. Potential gold-mine of economics research applications. I maintain a [repository](https://github.com/davidrpugh/programming-collective-intelligence-code) of the code for the entire book.
