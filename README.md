@@ -1,6 +1,3 @@
-python-boot-camp
-================
-
 # Python "Boot Camp"
 
 Curriculum for the inaugural "Python Boot Camp" held for the Scottish Graduate Programme in Economics at the University of Edinburgh, June 3-7 2013. The curriculum mainly follows [*Think Python*](http://www.greenteapress.com/thinkpython/) by Allen Downey, and the excellent SciPy lectures series on [Scientific Programming in Python](http://scipy-lectures.github.io/). *Think Python* is freely available on-line in both [pdf](http://www.greenteapress.com/thinkpython/thinkpython.pdf) and [html](http://www.greenteapress.com/thinkpython/html/index.html). All code and additional documentation for the Scipy lecture series can be forked from its [github repository](https://github.com/scipy-lectures/scipy-lecture-notes).
