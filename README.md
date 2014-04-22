@@ -31,7 +31,7 @@ We will pick up where we left off with [Part I: Programming in Python](http://qu
 * [Chapter 10: Lists](http://www.greenteapress.com/thinkpython/html/thinkpython011.html)
 
 ### Afternoon:
-We will pick up where we left off with [[Part II: The Scientific Libraries](http://quant-econ.net/scientific_python.html) before moving on to [Part III: Introductory applications](http://quant-econ.net/introductory_applications.html) of *Quantitative Economics*.
+We will pick up where we left off with [Part II: The Scientific Libraries](http://quant-econ.net/scientific_python.html) before moving on to [Part III: Introductory applications](http://quant-econ.net/introductory_applications.html) of *Quantitative Economics*.
 
 ## Day 4:
 
