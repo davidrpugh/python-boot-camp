@@ -1,5 +1,32 @@
 # Python "Boot Camp"
 
+Almost 50 people have signed up for this year's installment of the SGPE Python boot camp sponsored by SIRE. This represents almost a 500% increase in attendance from last year's event which is pretty exciting! In addition to SGPE MSc students, we are expecting PhD students from throughout Scotland and England as well as a few faculty members from various departments around the UK.
+
+Since we are only a couple of weeks out from the start of the boot camp, I thought I should send out an email with some important logistical information.
+
+## Logistics
+
+### Location:
+
+The course will be held in the following locations:
+
+* Monday: Appleton Tower room M2b/M2c
+* Tuesday: Appleton Tower room M2b/M2c
+* Wednesday: Lecture Theatre 175, Old College
+* Thursday: Lecture Theatre 175, Old College
+* Friday: Appleton Tower room M2b/M2c (morning); Lecture Theatre 175, Old College (Afternoon).
+
+Note that there are relatively few number of power sockets in LT 175 (we are working on a scheme to get more!). Please try to make sure that you fully charge your laptop Tuesday, and Wednesday night. 
+
+### Software:
+I have posted detailed instruction for downloading all of the required software (all of which is free!) on the Python boot camp [Wiki](https://github.com/davidrpugh/python-boot-camp/wiki/Getting-started). All participants are expected to have downloaded and installed the software prior to the start of class on Monday. 
+
+On Sunday afternoon there will be a help desk from 3-5pm in the basement computer lab of 30 Buccleuch place for those of you who would like some help installing the software.
+
+### Food/Tea/Coffee:
+I plan to take frequent official breaks (and you are free to take as many unofficial breaks as you wish). Unfortunately, you will be on your own for tea/coffee and lunch.
+
+## Curriculum
 Curriculum for the 2nd annual "Python Boot Camp" held for the Scottish Graduate Programme in Economics at the University of Edinburgh, June 2-6 2014. The curriculum mainly follows [*Think Python*](http://www.greenteapress.com/thinkpython/) by Allen Downey, and [Quantitative Economics](http://quant-econ.net/) by Thomas Sargent and John Stachurski. *Think Python* is freely available on-line in both [pdf](http://www.greenteapress.com/thinkpython/thinkpython.pdf) and [html](http://www.greenteapress.com/thinkpython/html/index.html). [Solutions](http://www.greenteapress.com/thinkpython/code/) to exercises are also available. Code and additional documentation for *Quantitative Economics* can be forked from its [github repository](https://github.com/jstac/quant-econ).
 
 ## Day 1:
