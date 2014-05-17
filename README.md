@@ -2,7 +2,7 @@
 
 Almost 50 people have signed up for this year's installment of the SGPE Python boot camp sponsored by SIRE. This represents almost a 500% increase in attendance from last year's event which is pretty exciting! In addition to SGPE MSc students, we are expecting PhD students from throughout Scotland and England as well as a few faculty members from various departments around the UK.
 
-Since we are only a couple of weeks out from the start of the boot camp, I thought I should send out an email with some important logistical information.
+Since we are only a couple of weeks out from the start of the boot camp, I thought I should post some important logistical information...
 
 ## Logistics
 
