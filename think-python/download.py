@@ -4,7 +4,7 @@ import urllib2
 BASE_URL  = 'http://www.greenteapress.com/thinkpython/code/'
 
 # file you wish to download
-tmp_file_name = 'BadKangaroo.py'
+tmp_file_name = 'ImageBrowser.py'
 
 # open a connection
 url      = BASE_URL + tmp_file_name
