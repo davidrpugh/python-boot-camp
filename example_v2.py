@@ -37,10 +37,10 @@ U = tmp_U.subs({'K_0':optimal_K_0, 'K_1':optimal_K_1})
 # compute the first order condition
 _symbolic_foc = sp.diff(U, L_0)
 
-# compute the jacobian...
+# compute the jacobian (this may take a few minutes!)
 _symbolic_jacobian = sp.diff(_symbolic_foc, L_0)
 
-# ...and the hessian (this may take a while!)
+# ...and the hessian (this may take a few more minutes!)
 _symbolic_hessian = sp.diff(_symbolic_foc, L_0, 2)
 
 # convert to numeric functions
